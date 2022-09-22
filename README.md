@@ -1,17 +1,1 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Hello!</title>
-    <meta name="description" content="description"/>
-    <meta name="author" content="author" />
-    <meta name="keywords" content="keywords" />
-    <link rel="stylesheet" href="./stylesheet.css" type="text/css" />
-    <style type="text/css">.body { width: auto; }</style>
-  </head>
-   <title>titi</title>
-  <body>
-    <h1>titi n'aime pas Grominet</h1>
-    <p>Grominet n'aime pas non plus titi</p>
-  </body>
-</html>
+# my-super-website
